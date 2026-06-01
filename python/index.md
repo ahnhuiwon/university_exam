@@ -1,6 +1,6 @@
 # 📁 computer-science/README.md
 
-# 파이썬프로그래밍기
+# 파이썬프로그래밍기초
 
 ## 강의 목록
 
