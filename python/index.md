@@ -1,13 +1,13 @@
 # 📁 computer-science/README.md
 
-# 컴퓨터개론
+# 파이썬프로그래밍기
 
 ## 강의 목록
 
 - [1강 - 컴퓨터의 이해](./lecture01.md)
 - [2강 - 파이썬의 이해](./lecture02.md)
 - [3강 - 파이썬 시작하기](./lecture03.md)
-- [4강 - 파이썬 시작하기](./lecture04.md)
+- [4강 - 구조적 프로그래밍](./lecture04.md)
 - [5강 - 파이썬 시작하기](./lecture05.md)
 - [6강 - 파이썬 시작하기](./lecture06.md)
 - [7강 - 파이썬 시작하기](./lecture07.md)
