@@ -1,4 +1,3 @@
-```md
 # 📚 시험 공부 메인
 
 ## 과목 목록
@@ -8,13 +7,11 @@
 - [운영체제](./operating-system/README.md)
 - [네트워크](./network/README.md)
 - [데이터베이스](./database/README.md)
-```
 
 ---
 
 # 📁 computer-science/README.md
 
-```md
 # 컴퓨터개론
 
 ## 강의 목록
@@ -22,13 +19,12 @@
 - [1강 - 컴퓨터의 이해](./lecture01.md)
 - [2강 - 하드웨어 구조](./lecture02.md)
 - [3강 - 알고리즘과 프로그램](./lecture03.md)
-```
 
 ---
 
 # 📁 computer-science/lecture01.md
 
-```md
+
 # 1강 - 컴퓨터의 이해
 
 ## 1. 데이터와 정보
@@ -59,13 +55,11 @@
 - 데이터 → 처리 → 정보
 - 비트 최소 단위
 - 바이트 = 8비트
-```
 
 ---
 
 # 📁 computer-science/lecture02.md
 
-```md
 # 2강 - 하드웨어 구조
 
 ## 1. 폰 노이만 구조
@@ -85,26 +79,22 @@
 - CU
 - ALU
 - Register
-```
 
 ---
 
 # 📁 data-structure/README.md
 
-```md
 # 자료구조
 
 ## 강의 목록
 
 - [1강 - 배열과 연결리스트](./lecture01.md)
 - [2강 - 스택과 큐](./lecture02.md)
-```
 
 ---
 
 # 📁 data-structure/lecture01.md
 
-```md
 # 1강 - 배열과 연결리스트
 
 ## 배열(Array)
@@ -120,4 +110,3 @@
 ### 핵심 정리
 - 노드 기반 구조
 - 삽입 삭제 유리
-```
