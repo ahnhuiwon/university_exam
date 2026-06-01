@@ -2,7 +2,7 @@
 
 ## 과목 목록
 
-- [컴퓨터개론](./computer-science/README.md)
+- [컴퓨터개론](./computer-science/index.md)
 - [자료구조](./data-structure/README.md)
 - [운영체제](./operating-system/README.md)
 - [네트워크](./network/README.md)
